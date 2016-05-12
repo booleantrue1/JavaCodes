@@ -1,1 +1,0 @@
-import java.io.*;import java.util.*;class j{public static void main(String a[])throws IOException{BufferedReader b=new BufferedReader(new InputStreamReader(System.in));int p=0,k=0,m=0;StringTokenizer c=new StringTokenizer(b.readLine());m=Integer.parseInt(c.nextToken());k=Integer.parseInt(c.nextToken());p=(m<k)?m:k;System.out.print((m+k-p-1)+" "+(p));}}

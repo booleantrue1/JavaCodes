@@ -1,3 +1,0 @@
-#include<iostream>
-#include<cstring>
-using namespace std;int main(){long long u,n,m;cin>>n;while(n--){char r[1005];cin>>r>>u;m=r[strlen(r)-1]-48;if(!u){cout<<'1';}else{u=u%100;u=u%4;if(m==0||m==1||m==5||m==6)cout<<m;else{if(m==2){if(u==1)cout<<'2';if(u==2)cout<<'4';if(u==3)cout<<'8';if(u==0)cout<<'6';}if(m==3){if(u==1)cout<<'3';if(u==2)cout<<'9';if(u==3)cout<<'7';if(u==0)cout<<'1';}if(m==7){if(u==1)cout<<'7';if(u==2)cout<<'9';if(u==3)cout<<'3';if(u==0)cout<<'1';}if(m==8){if(u==1)cout<<'8';if(u==2)cout<<'4';if(u==3)cout<<'2';if(u==0)cout<<'6';}if(m==4){if(u%2==1)cout<<'4';if(u%2==0)cout<<'6';}if(m==9){if(u%2==1)cout<<'9';if(u%2==0)cout<<'1';}}}cout<<'\n';}return 0;}
