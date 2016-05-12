@@ -1,0 +1,70 @@
+import java.io.*;
+class j
+{
+public static void main(String a[])throws IOException
+{
+BufferedReader b=new BufferedReader(new InputStreamReader(System.in));
+int n=0,m=0,i=0,t=0;
+String p,r="\0",s="\0";
+p=b.readLine();
+if(p.charAt(1)>'5'&&p.charAt(1)<='9')
+{
+if(p.charAt(0)=='0')
+System.out.print("10:01");
+if(p.charAt(0)=='1')
+System.out.print("20:02");
+}
+else
+{
+if(p.substring(0,2).compareTo("23")==0)
+{
+if((Integer.parseInt(p.substring(3)))>31)
+System.out.print("00:00");
+if((Integer.parseInt(p.substring(3)))<32)
+System.out.print("23:32");
+}
+else
+{
+if(p.substring(0,2).compareTo("05")==0)
+{
+if((Integer.parseInt(p.substring(3)))>49)
+System.out.print("10:01");
+if((Integer.parseInt(p.substring(3)))<50)
+System.out.print("05:50");
+}
+else
+{
+if(p.substring(0,2).compareTo("15")==0)
+{
+if((Integer.parseInt(p.substring(3)))>50)
+System.out.print("20:02");
+if((Integer.parseInt(p.substring(3)))<51)
+System.out.print("15:51");
+}
+else
+{
+n=Integer.parseInt(p.substring(0,2));
+t=Integer.parseInt(p.substring(3));
+m=((n%10)*10)+(n/10);
+if(t>=m)
+{
+n++;
+m=((n%10)*10)+(n/10);
+if(p.charAt(0)=='0')
+System.out.print("0"+n+":"+m);
+else
+System.out.print(n+":"+m);
+}
+else
+{
+if(p.charAt(0)=='0')
+System.out.print("0"+n+":"+m);
+else
+System.out.print(n+":"+m);
+}
+}
+}
+}
+}
+}
+}

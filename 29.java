@@ -1,0 +1,1 @@
+import java.util.*;class j{public static void main(String a[])throws java.io.IOException{Scanner b=new Scanner(System.in);int j=0,n=0,m=0,i=0;double p=0;StringTokenizer c=new StringTokenizer(b.nextLine());m=Integer.parseInt(c.nextToken());n=Integer.parseInt(c.nextToken());for(i=1;i<m;i++)for(j=1;j<n;j++)p+=(Math.min(i,m-i)*Math.min(j,n-j));System.out.print((long)p);}}
