@@ -1,0 +1,1 @@
+import java.util.*;import java.io.*;class j{public static void main(String a[])throws IOException{Scanner b=new Scanner(System.in);int m,i;String s="abcd";m=b.nextInt();for(i=0;i<m/4;i++)System.out.print(s);System.out.print(s.substring(0,m%4));}}
