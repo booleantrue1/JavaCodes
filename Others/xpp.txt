@@ -1,0 +1,19 @@
+Code Uncode- India's First Ever Secure Programming Competition to generate awareness about the secure aspect of programming and to recognize talent in secure programming. For this we have partnered with Colleges/ Universities and Corporates across India. We have partnered with Amity University, Thapar University, Lovely Professional University, DR. MGR University, Mahamaya Technical University to name a few and have corporates like HCL, CMS Infosystems etc supporting us! We wish to invite your students to be a part of this platform too.
+Please Note: This is an absolutely free of cost event! Last date for the competition is 31st July. 
+Test date - 30th July 
+Test Time - 10 PM- 12 AM 
+Names of the Proctors who will invigilate this competition- Prerak (prerak.agarwal.cse10@iitbhu.ac.in- 09044866056/ 08125903824) 
+To take the competition students will require a username and password and a proctor ID and password. 
+While the proctor details have been shared with you already, provided below are the steps to generate your test username and password. 
+To generate your test username and password, please register here and follow the following steps:
+--> Register on: http://www.eccexam.com/register.php 
+--> Give a username and password for yourself (Please ensure you provide all the details correctly or your form will not be accepted) 
+--> After submitting this go to the email ID you have provided in the registration form 
+--> Go to spam folder- you will have a mail from ecc exam with an account activation link 
+--> Click on the link 
+--> In your inbox you will also have the confirmation mail with your username and password 
+--> Enter the username you chose for yourself along with the password 
+--> Choose Code Uncode test 
+--> Enter Proctor ID (Will be shared with you by 9:30 PM) 
+--> Exam starts! 
+The link for the Code Uncode exam is: http://www.eccexam.com/

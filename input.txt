@@ -1,0 +1,100 @@
+1 iiita
+2 iitd
+3 dtu
+4 chennai m i
+5 jaypee guna
+6 iitr
+7 iitg
+8 iitbhu
+9 iitk
+10 indraprasth
+11 nit karnataka
+12 iitkgp
+13 vellore
+14 iitb
+15 nsit
+16 nit trichy
+17 bit mesra
+18 jaypee
+19 iitm
+20 iiith
+21 dhirubhai ambani
+22 iit indore
+23 nit durgapur
+24 iith
+25 govind
+26 nit rourkela
+27 iit patna
+28 bit patna
+29 devi ahilya
+30 mnnit
+31 college of guindy
+32 pune institute ct
+33 bits pilani
+34 bengal shibpur
+35 LNM
+36 amrita amritapuri
+37 ism
+38 iem kolkata
+39 mjp rohilkhand
+40 iiit jabalpur
+41 dharmsinh desai
+42 iit ropar
+43 iiit bangalore
+44 nit jamshedpur
+45 maharaja agrasen
+46 bits hyd
+47 cet bhubaneshwar
+48 guru tegh bahadur
+49 nit surat
+50 shri ramswaroop
+51 anna university
+52 IEC
+53 mnnit jaipur
+54 Dwarkadas Jivanlal Sanghvi
+55 uiet punjab
+56 nist
+57 visveswarayya
+58 abv iitm
+59 rajiv gandhi nagpur
+60 rustamji
+61 iit mandi
+62 st xavier kolkata
+63 rajdhani college
+64 srm
+65 veermata
+66 bit deoghar
+67 nit calicut
+68 indira gandhi
+69 kalyani
+70 graphic era
+71 br ambedkar
+72 thapar
+73 mckv
+74 gitam
+75 bharati vidyapeeth
+76 amrita coimbatore
+77 gd goenka
+78 mnnit bhopal
+79 JRE noida
+80 neta subhash
+81 iit jodhpur
+82 narula
+83 pec
+84 anil neerukonda
+85 jk allahabad
+86 abes
+87 nit raipur
+88 iit bhubaneshwar
+89 chandubhai
+90 nit delhi
+91 itmu vadodara
+92 ipsa indore
+93 pranveer
+94 iiit bhubaneshwar
+95 kalinga
+96 bapatla
+97 bhu
+98 kanpur
+99 dtu
+100 iitkgp

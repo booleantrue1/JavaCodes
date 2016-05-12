@@ -1,0 +1,1 @@
+import java.io.*;class j{public static void main(String a[])throws IOException{BufferedReader b=new BufferedReader(new InputStreamReader(System.in));int n=0,p=0,i=0;p=Integer.parseInt(b.readLine());n=p;while(n>1){for(i=2;i<=n;i++){if(n%i==0){n=n/i;p+=n;break;}}}System.out.print(p);}}
